@@ -1,7 +1,7 @@
 # Imbued
 
 Imbued is a modular home‑server dashboard built with ASP.NET Razor Pages.  
-It provides a clean, customizable interface for monitoring and managing your system, with support for draggable widgets and expandable modules.
+It provides an easy to navigate, customizable interface for monitoring and managing your system, with support for draggable widgets and expandable modules.
 
 ## Features
 - 🧩 Modular architecture (Media, Minecraft, Bluetooth, System, etc.)
